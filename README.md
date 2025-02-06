@@ -17,7 +17,7 @@ Emir AYAR
 
 200030473
 
-JANUARY 30 , 202 5
+JANUARY 30 , 2025
 
 Lecturer : Dr. Ahmet Fevzi Bozkurt
 
