@@ -20,12 +20,7 @@ Emir AYAR
 JANUARY 30 , 202 5
 
 Lecturer : Dr. Ahmet Fevzi Bozkurt
-Contents
-Simple Explanation of Linear and Logistic Regression
-Objective of the Project and Code Explaination
-Results and Verification
-References
-3
+
 Simple Explanation of Linear and Logistic Regression
 1. Linear Regression
 
